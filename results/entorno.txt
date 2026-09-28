@@ -1,0 +1,11 @@
+fecha=2026-09-28T17:26:22.709792400
+java.version=21.0.12.1
+java.vm.name=OpenJDK 64-Bit Server VM
+os=Windows 11 10.0 (amd64)
+cpu=Intel64 Family 6 Model 170 Stepping 4, GenuineIntel
+procesadores=18
+ram_mb=7696
+heap_max_mb=2731
+resolucion_nanotime_ns=100
+tamanos=[10, 100, 10000, 1000000, 10000000]
+semilla=2026
