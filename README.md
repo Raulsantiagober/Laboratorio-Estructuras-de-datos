@@ -2,8 +2,9 @@
 
 Estructuras de Datos 2026-2 · Universidad Nacional de Colombia
 Profesor: David Herrera · Monitora: Ángela Camila Siabato Londoño
+estudiante: Raúl Santiago Bermúdez Camacho
 
-Implementación manual (sin librerías de estructuras) de:
+Implementación manual de:
 
 | Estructura | Clase |
 |---|---|
